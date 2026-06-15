@@ -11,7 +11,7 @@ export const portfolioOwner = {
   email: "aminarezq74@gmail.com",
   phone: "01063065161",
   location: "Mansoura, Dakahlia, Egypt (Open to Remote / Internship)",
-  github: "https://github.com/aminarezk"
+  github: "https://github.com/aminarezk",
   linkedin: "https://www.linkedin.com/in/amina-rezk-a95b47263/",
   avatar: "",
   resumeUrl: "#", // Handled as contact action / CV view in the app
